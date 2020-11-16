@@ -1,0 +1,7 @@
+.vedeo__iframe {
+  /* border: 1px solid red; */
+  margin-right: 10px;
+}
+.vedeo__iframe:last-of-type {
+  margin-right: 0;
+}
